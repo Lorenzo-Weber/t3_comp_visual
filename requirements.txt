@@ -2,3 +2,5 @@ huggingface_hub
 torch
 pandas
 numpy
+Pillow
+matplotlib
