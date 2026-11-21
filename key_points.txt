@@ -1,0 +1,13 @@
+1- Fatores fisicos e ambientais resultam na perda de informacao de alta frequencia.
+    1.1 - Imperfeicao nas lentes
+    1.2 - Pouca iluminacao
+    1.3 - Tremores na camera
+
+2- Blind vs Non_blind: 
+    Non_blind methods sao metodos em que o causador do blur eh conhecido
+
+3- Problema de outros artigos:
+    Utilizam MSE pixel-wise ent acabam por gerar imagens mto suaves por sempre irem pela media, fora as alucinacoes q mtos papers demonstram ter
+
+4- Controle sobre o Deblurring: Outros trabalhos apenas "arrumam" a imagem, enquanto este foca em dar um controle sobre quanto "deblur" sera feito
+
