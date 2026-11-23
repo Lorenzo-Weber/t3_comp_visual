@@ -4,3 +4,5 @@ pandas
 numpy
 Pillow
 matplotlib
+torchvision
+scikit-image
