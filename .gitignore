@@ -1,3 +1,6 @@
 .venv/
 data/
 *.pdf
+*.csv
+*.png
+checkpoints/
